@@ -1,0 +1,10 @@
+<svg class="black-rotate" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 879 610" fill="none">
+                    <path d="M-1 0H879V556H-1V0Z" fill="url(#paint0_radial_1_883)"></path>
+                    <defs>
+                        <radialgradient id="paint0_radial_1_883" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse"
+                            gradienttransform="translate(395.401 253) rotate(18.3946) scale(414.576 643.045)">
+                            <stop offset="0.333049" stop-opacity="0"></stop>
+                            <stop offset="1"></stop>
+                        </radialgradient>
+                    </defs>
+                </svg>
